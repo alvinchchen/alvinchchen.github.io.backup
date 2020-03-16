@@ -11,24 +11,24 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Debian Taiwan Community 臺灣社群
-description: Debian  &#x2192; 致力於創建一個自由作業系統
+title: OpenChain Taiwan Community 臺灣社群
+description: OpenChain  &#x2192; 合規使用且有效管理 Open Source Software
 owner:
-  name: Debian 臺灣社群 #
-  email: szlin@cs.nctu.edu.tw
-  url: http://szlin.wordpress.com
-first_published: 2016 # if migrating another site, the year of your first publish
+  name: OpenChain 臺灣社群 #
+  email: sonoma001@gmail.com
+  url: https://github.com/alvinchchen/
+first_published: 2020 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.debian.org.tw/" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome to Debian 臺灣社群!
-  text: 臺灣 Debian 相關資源
+  title: Welcome to OpenChain 臺灣社群!
+  text: 臺灣 OpenChain 相關資源
 # - displayed at the bottom
 closing-head: 加入我們
-closing-para: 一起為臺灣 Debian 社群貢獻!
+closing-para: 一起為臺灣 OpenChain 社群貢獻!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
